@@ -22,6 +22,7 @@ public class Contest {
         }
         if (eligibility) {
             System.out.println("I am glad, you are eligible for free gift in Store!");
+            System.out.println("Its good to have you here");
         } else {
             System.out.println("I am sorry! only store members are eligible for free gift.");
         }
